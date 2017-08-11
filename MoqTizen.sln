@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		packages.config = packages.config
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Moq", "Source\Moq.csproj", "{1C91AC30-5977-4BE5-BA67-8EB186C03514}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoqTizen", "Source\MoqTizen.csproj", "{1C91AC30-5977-4BE5-BA67-8EB186C03514}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Moq.Tests", "UnitTests\Moq.Tests.csproj", "{81BBC911-4916-4E10-A955-752AE47CB2B9}"
 EndProject
